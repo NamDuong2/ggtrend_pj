@@ -61,5 +61,56 @@ Bạn hãy thực hiện các bài tập dưới đây, kết quả gửi về �
 
 ![image](https://user-images.githubusercontent.com/75520765/135628842-e3ad5823-a487-4b07-8feb-25e62d44cfbe.png)
 
+## Dự án cuối khóa – Final Project
+Bạn hãy thực hiện các bài tập dưới đây:<br>
+• File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ4.rar. File kết quả bao gồm:
+	o File soure code của bạn (đặt tên là dak27_final.py)
+	o Video demo chương trình của bạn 
+
+
+A.	Cách đánh giá kết quả cuối cùng của dự án 
+Mục tiêu của dự án cuối cùng là xây dựng được chương trình hoàn chỉnh này, do đó cách chấm điểm giai đoạn cuối cùng như sau:<br>
+Kết quả cuối khóa được đánh giá là đạt khi:<br>
+•	Đáp ứng đầy đủ toàn bộ các yêu cầu đầu ra như mô tả/
+•	Format nộp bài, đặt tên file đúng quy định
+Kết quả được đánh giá không đạt khi:<br>
+•	Một trong các yếu tố trên bị vi phạm
+Ghi chú: Trong dự án đánh giá trên kết quả cuối cùng quy đổi ra điểm như sau:
+-	Không đạt tính là 0 điểm
+-	Đạt tính là 10 điểm
+ 
+B.	Yêu cầu của dự án 
+Bạn thực hiện xây dựng phần mềm hoàn chỉnh sau đây:
+Khi chạy phần mềm, màn hình consonle hiển thị các lựa chọn
+1. Lấy dữ liệu trending từ file. 
+2. Xuất báo cáo top 10 trending
+3. Xuất báo cáo search keyword in 2020
+4. Vẽ biểu đồ line chart top 5 trending các từ khóa tìm kiếm nhiều nhất 2020
+5. Vẽ biểu đồ bar chart top 5 trending các từ khóa tìm kiếm nhiều nhất 2019
+6. Thống kê tìm kiếm top trending 5 từ khóa trong 2 năm 2020, 2019
+...
+99. Thoát
+(Lưu ý: Sắp xếp hiển thị có ý đồ
+Hiển thị … để tách biệt phần Menu lựa chọn và phần Thoát
+Hiển thị số 99 để làm số khác biệt hoàn toàn với các lựa chọn bên trên)
+
+**Mô tả chi tiết chương trình như sau:**<br> 
+Khi nhập vào các số, hệ thống thực thi các công việc tượng ứng với các số nhập vào
+Ví dụ nhập số 1: thực hiện đọc file keytrends.xls (có thể fix tên file, hoặc nhập vào), nhập thời điểm tìm kiếm bắt đầu, và kết thúc. Thực hiện get dữ liệu từ google trend từ các điều kiện trên, lưu dữ liệu đã get được vào CSDL. 
+Kết thúc lựa chọn 1, màn hình hiển thị lại các lựa chọn ban đầu. 
+Kết thúc chương trình khi người dùng nhập vào 99
+
+Giải thích các bài tập nhỏ (các lựa chọn trong Menu)<br>
+1. Khi nhập vào 1, thực hiện nhập tên file excel key trending.<br>
+•	Nhập khoảng thời gian lấy dữ liệu (from_date, to_date), dữ liệu nhập vào có từ đầu năm 2019, đến nay
+•	Check file tồn tại hay không, đúng định dạng không.
+•	Tiến hành đọc file, lấy dữ liệu google với key đọc từ file và time frame được nhập vào
+•	Insert dữ liệu lấy được vào Cơ sở dữ liệu
+2. Khi nhập vào 2, thực hiện xuất báo cáo 10 từ khóa tìm kiếm nhiều nhất trên toàn hệ thống, sắp xếp theo từ khóa tìm kiếm nhiều nhất lên trên cùng.
+3. Báo cáo các từ khóa search 2020 tại Việt Nam, nhóm theo loại từ khóa tìm kiếm (News, film, song, person, ...)
+4. Vẽ biểu đồ line chart top 5 trending các từ khóa tìm kiếm nhiều nhất 2020
+5. Vẽ biểu đồ bar chart top 5 trending các từ khóa tìm kiếm nhiều nhất 2019
+6. Thống kê tìm kiếm top trending 5 từ khóa trong 2 năm 2020, 2019
+99. Nhập vào 99, hệ thống kết thúc.	
 
 
