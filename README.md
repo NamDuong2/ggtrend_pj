@@ -1,4 +1,4 @@
-# ggtrend_pj
+# Phân Tích Dữ Liệu Từ Google Trend
 
 ## CÔNG VIỆC GIAI ĐOẠN 1
 
