@@ -41,7 +41,7 @@ Chương trình của bạn lúc này sẽ lấy trực tiếp từ Google Trend
 4.	Bạn thực hiện phân tích dữ liệu sau và lưu ra file excel tên là vn_trending_result.xls.
 -	Hãy lấy TOP 10 từ khóa được tìm kiếm nhiều nhất trong danh sách trên.
 
-## Dự án giai đoạn 3 
+## CÔNG VIỆC GIAI ĐOẠN 3
 
 Bạn hãy thực hiện các bài tập dưới đây, kết quả gửi về đội ngũ Mentor theo lưu ý bên dưới:<br>
 •	File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ3.rar. File kết quả bao gồm:
