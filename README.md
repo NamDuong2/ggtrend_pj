@@ -14,6 +14,8 @@ a.	Lấy tại lãnh thổ Việt Nam
 b.	Lấy trong thời gian 1/1/2020 – 31/12/2020
 2.	Lưu kết quả thu thập được vào 1 file tên là vn_trend_2020.xls.
 a.	Lưu kết quả thu được vào nhiều sheet, tên mỗi sheet chính là tên tiêu đều, ví dụ như sau:
+
  ![image](https://user-images.githubusercontent.com/75520765/135628216-2ac86f5c-f4c8-43bc-8b30-71ce2ced5d5f.png)
+ 
 b.	Nội dung trong 1 sheet sẽ là thông tin xu hướng lấy được từ google trends của các từ khóa tương ứng . Ví dụ như sau (bạn không cần phần màu trong ảnh, chỉ cần đúng nội dung là được)
  
