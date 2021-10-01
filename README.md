@@ -5,7 +5,7 @@
 Bạn hãy thực hiện các bài tập dưới đây, kết quả gửi về đội ngũ Mentor theo lưu ý bên dưới:<br>
 •	File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ1.rar.<br>
 File kết quả bao gồm:<br>
-  o	File vn_trend_2020.xls. 
+  o	File vn_trend_2020.xls. <br>
   o	Source Code của các bạn để sinh ra file vn_trend_2020.xls
 
 Bạn hãy thực hiện xử lý các trường hợp sau
@@ -22,24 +22,25 @@ b.	Nội dung trong 1 sheet sẽ là thông tin xu hướng lấy được từ 
 ## CÔNG VIỆC GIAI ĐOẠN 2
 
 Bạn hãy thực hiện các bài tập dưới đây, kết quả gửi về đội ngũ Mentor theo lưu ý bên dưới:<br>
-•	File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ2.rar. File kết quả bao gồm:<br>
-    o	File vn_trending_result.xls. 
-    o	Quy trình cài đặt PostgreSQL bạn đã thực hiện (chụp ảnh các bước cài đặt) và các câu lệnh tạo user, tạo bảng vn_trending. Lưu file này là quytrinh_db.docx.
-    o	Source code của bạn 
+• File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ2.rar. File kết quả bao gồm:<br>
+    o	File vn_trending_result.xls.<br>
+    o	Quy trình cài đặt PostgreSQL bạn đã thực hiện (chụp ảnh các bước cài đặt) và các câu lệnh tạo user, tạo bảng vn_trending. Lưu file này là quytrinh_db.docx.<br>
+    o	Source code của bạn
 
 Bạn hãy thực hiện xử lý các trường hợp sau<br>
-1.	Cài đặt Cơ sở dữ liệu PostgreSQL phiên bản 12 với mục đích lưu trữ các dữ liệu Trending thu thập được.
-2.	Thực hiện tạo bảng tên vn_trending theo cấu trúc các trường như sau:
-STT	Tên cột	Kiểu dữ liệu và mục đích<br>
-1	Id	Sinh tự động giá trị cho trường này. Đây là trường lưu giá trị dạng số
-2	keyword	kiểu ký tự, lưu keyword tìm kiếm
-3	date	kiểu date, lưu ngày tìm kiếm của keyword
-4	Value	Kiểu số, lưu số lần tìm kiếm trong ngày của keyword
-5	trend_type	lưu trữ các nhóm tin tức: news, film, songs,... trong file key_trends.xls
-3.	Hãy phát triển tiếp chương trình bạn đã xây dựng ở giai đoạn 1. 
+1. Cài đặt Cơ sở dữ liệu PostgreSQL phiên bản 12 với mục đích lưu trữ các dữ liệu Trending thu thập được.
+2. Thực hiện tạo bảng tên vn_trending theo cấu trúc các trường như sau:
+	STT|	Tên cột	| Kiểu dữ liệu và mục đích |
+	---|------------|--------------------------|
+	1  |	Id	| Sinh tự động giá trị cho trường này. Đây là trường lưu giá trị dạng số|
+	2  |	keyword	| kiểu ký tự, lưu keyword tìm kiếm|
+	3  |	date	| kiểu date, lưu ngày tìm kiếm của keyword|
+	4  |	Value	| Kiểu số, lưu số lần tìm kiếm trong ngày của keyword|
+	5  | trend_type	| lưu trữ các nhóm tin tức: news, film, songs,... trong file key_trends.xls|
+3. Hãy phát triển tiếp chương trình bạn đã xây dựng ở giai đoạn 1. 
 Chương trình của bạn lúc này sẽ lấy trực tiếp từ Google Trend và đưa vào bảng trong Database vừa tạo bên trên.
-4.	Bạn thực hiện phân tích dữ liệu sau và lưu ra file excel tên là vn_trending_result.xls.
--	Hãy lấy TOP 10 từ khóa được tìm kiếm nhiều nhất trong danh sách trên.
+4. Bạn thực hiện phân tích dữ liệu sau và lưu ra file excel tên là vn_trending_result.xls.
+- Hãy lấy TOP 10 từ khóa được tìm kiếm nhiều nhất trong danh sách trên.
 
 ## CÔNG VIỆC GIAI ĐOẠN 3
 
