@@ -64,7 +64,7 @@ Bạn hãy thực hiện các bài tập dưới đây:<br>
 
 ## Dự án cuối khóa – Final Project
 Bạn hãy thực hiện các bài tập dưới đây:<br>
-• File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ4.rar. File kết quả bao gồm:
+• File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ4.rar. File kết quả bao gồm:<br>
 	o File soure code của bạn (đặt tên là dak27_final.py)
 	o Video demo chương trình của bạn 
 
