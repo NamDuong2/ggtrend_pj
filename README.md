@@ -2,7 +2,7 @@
 
 ## CÔNG VIỆC GIAI ĐOẠN 1
 
-Bạn hãy thực hiện các bài tập dưới đây, kết quả gửi về đội ngũ Mentor theo lưu ý bên dưới:<br>
+Bạn hãy thực hiện các bài tập dưới đây: <br>
 •	File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ1.rar.<br>
 File kết quả bao gồm:<br>
   o	File vn_trend_2020.xls. <br>
