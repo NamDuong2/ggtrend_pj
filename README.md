@@ -21,7 +21,7 @@ b.	Nội dung trong 1 sheet sẽ là thông tin xu hướng lấy được từ 
 
 ## CÔNG VIỆC GIAI ĐOẠN 2
 
-Bạn hãy thực hiện các bài tập dưới đây, kết quả gửi về đội ngũ Mentor theo lưu ý bên dưới:<br>
+Bạn hãy thực hiện các bài tập dưới đây: <br>
 • File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ2.rar. File kết quả bao gồm:<br>
     o	File vn_trending_result.xls.<br>
     o	Quy trình cài đặt PostgreSQL bạn đã thực hiện (chụp ảnh các bước cài đặt) và các câu lệnh tạo user, tạo bảng vn_trending. Lưu file này là quytrinh_db.docx.<br>
@@ -44,7 +44,7 @@ Chương trình của bạn lúc này sẽ lấy trực tiếp từ Google Trend
 
 ## CÔNG VIỆC GIAI ĐOẠN 3
 
-Bạn hãy thực hiện các bài tập dưới đây, kết quả gửi về đội ngũ Mentor theo lưu ý bên dưới:<br>
+Bạn hãy thực hiện các bài tập dưới đây:<br>
 •	File kết quả là 01 file nén với tên: DAK27_Hoten_GĐ3.rar. File kết quả bao gồm:
     o	File vn_trending_search_keyword_2020.xlsx, top_search_key_2020.png, top_search_key_2019.png
     o	Source code của bạn với định dạng file .py  (lưu ý phải đúng định dạng này)
